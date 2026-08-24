@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- PLACEHOLDER: MERI logo -->
-  <img src="./assets/meri-logo.png" alt="MERI logo" height="60"/>
+  <img src="./assets/MERI Logo_RGB_Pine Green.png" alt="MERI logo" height="60"/>
   &nbsp;&nbsp;&nbsp;
   <!-- PLACEHOLDER: UoM logo -->
   <img src="./assets/uom_logo.png" alt="UoM logo" height="60"/>
