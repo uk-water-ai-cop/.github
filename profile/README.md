@@ -2,15 +2,18 @@
 
 <!-- Logo banner: replace with actual logos once uploaded -->
 <p align="center">
-  <img src="./assets/logo.png" alt="AI & Water CoP logo" width="140"/>
+  <img src="./assets/water-ai-cop-logo-v3.svg" alt="AI & Water CoP logo" width="140"/>
 </p>
 
 <p align="center">
   <!-- PLACEHOLDER: MERI logo -->
   <img src="./assets/meri-logo.png" alt="MERI logo" height="60"/>
   &nbsp;&nbsp;&nbsp;
+  <!-- PLACEHOLDER: UoM logo -->
+  <img src="./assets/uom_logo.png" alt="UoM logo" height="60"/>
+  &nbsp;&nbsp;&nbsp;
   <!-- PLACEHOLDER: Environment Agency logo -->
-  <img src="./assets/ea-logo.png" alt="Environment Agency logo" height="60"/>
+  <img src="./assets/ea_logo.png" alt="Environment Agency logo" height="60"/>
   &nbsp;&nbsp;&nbsp;
 </p>
 
